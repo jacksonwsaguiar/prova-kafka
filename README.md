@@ -34,3 +34,6 @@ Testes unitarios de casos para integração e persistência dos dados.
     ```
     pytest test_broker.py
     ```
+
+## Demonstração
+[Demonstração Kafka](https://drive.google.com/file/d/1XhtXKX91OP1IvbC8S3g2-SqyEAg94RZG/view?usp=sharing)
